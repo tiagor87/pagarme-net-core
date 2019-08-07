@@ -1,0 +1,1 @@
+# pagarme-net-core
